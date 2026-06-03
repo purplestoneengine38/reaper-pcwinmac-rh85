@@ -1,4 +1,4 @@
-# 
+# Ultimate Reaper effects for Mac OS | Native Reaper effects for PC Windows. Featuring visual-effects and pre-composition — optimized for maximum performance on every platform.
 
 
 
